@@ -4,10 +4,10 @@ This is Abdullah Jandali's Github. Hello, hola, bonjour, privyet, ni hao, konnic
 
 > Useful Links <
 
-https://github.com/florinpop17/app-ideas
+https://github.com/florinpop17/app-ideas \n
 A list of useful app ideas for inspiation or basic coding help.
 
-https://github.com/chubin/cheat.sh
+https://github.com/chubin/cheat.sh /n
 The name is self-explanatory. Useful tips and tricks to save time!
 
 https://github.com/godotengine/godot
